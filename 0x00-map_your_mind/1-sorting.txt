@@ -1,9 +1,0 @@
-This program reads in three numbers and them all in sorted order
-
-Get user input for first number
-Get user input for second number
-Get user input for second number
-Find minimum number among the three numbers
-Find maximum number among the three numbers
-Subtract the sum of the maximum and minimum from the sum of the three numbers to get the middle number
-print the minimum, middle and maximum numbers in that order

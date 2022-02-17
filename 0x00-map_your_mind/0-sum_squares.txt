@@ -1,8 +1,0 @@
-This program calculates the sum if given input numbers
-
-Get user input for first number
-Get user input for second number
-Square first number
-Square second number
-Square second number
-Add the square of the first number to the square of the second number

@@ -1,6 +1,0 @@
-This program calculates a running sum from input numbers
-
-Initialize a variable for the sum to zero, and number to zero
-In an IF statement, IF the number is GREATER THAN OR EQUAL TO zero, add the number to the sum
-Take another input from the user
-ELSE stop and PRINT the sum 
